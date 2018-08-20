@@ -1,0 +1,106 @@
+<head>
+  <style>
+    #menu {
+      background: transparent !important;
+    }
+    body {
+      background-size: auto !important;
+      background-image: linear-gradient(black, #160919) !important;
+      color: #8f2ea5;
+    }
+    .botpagebutton {
+      background: transparent !important;
+    }
+    .botpagebutton:hover {
+      color: white !important;
+    }
+    #createdby {
+      color: #8f2ea5 !important;
+    }
+    #createdby span {
+      transition: 0.2s;
+    }
+    #bot-details-page .btn-like {
+      padding: 0 30px;
+    }
+    #bot-details-page .btn-like span#points {
+      color: #ff00ee;
+    }
+    .btn-like span {
+      font-weight: 100;
+    }
+    #bot-details-page .btn-like img {
+      content: url(https://i.imgur.com/8zLpMJN.png);
+    }
+    #createdby b {
+      background: transparent !important;
+    }
+    #createdby i {
+      opacity: 1;
+      font-style: inherit !important;
+      background: transparent !important;
+    }
+    #prefix code {
+      background-color: transparent !important;
+      color: purple;
+    }
+    .longdescription .content {
+      color: #ff00ee;
+      background: transparent;
+      box-shadow: none;
+    }
+    .bot-description {
+      color: #ce86c4 !important;
+    }
+    #bot-details-page .bot-name {
+      color: #8f2ea5 !important;
+    }
+    .page .page-title p {
+	  color: #8f2ea5;
+    }
+    .lib a, a, .color-medium-blue {
+	  color: #8f2ea5 !important;
+    }
+    .lib a:hover, a:hover, .color-medium-blue:hover {
+	  color: white !important;
+    }
+    .btn-blue, .atag {
+	  background-color: transparent;
+    }
+    .serversshards .votebutton {
+      font-size: 18px !important;
+    }
+    a:hover {
+      color: white;
+    }
+    .btn-orange {
+      background-color: transparent;
+      color: #8f2ea5;
+    }
+    .btn-orange:hover {
+      color: white;
+    }
+    .atag {
+      padding-right: 20px;
+    }
+    .atag:hover {
+      background: transparent;
+      color: white;
+    }
+    .atag::after, .atag::before {
+      content: none;
+      border-radius: 50px;
+    }
+    #bot-details-page .bot-img {
+      box-shadow: none !important;
+      border-radius: 50%;
+    }
+    .titleandvote .votebutton {
+      background: transparent;
+      color: #8f2ea5;
+    }
+    .titleandvote .votebutton:hover {
+      color: white;
+    }
+  </style>
+ </head>
