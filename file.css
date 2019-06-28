@@ -1,10 +1,13 @@
+Mari is a bot written in Discord.py from scratch with love. The purpose of this bot is to help your server stay entertaining.
+Mari is in active development, which means that even more commands are going to be released soon, so feel free to suggest your commands or report any bugs you find!
+All suggestions and bug reports are appreciated.
 <style>
   #menu {
     background: transparent !important;
   }
   body {
     background-size: auto !important;
-    background-image: linear-gradient(black, #160919) !important;
+    background: black !important;
     color: #8f2ea5;
   }
   .botpagebutton {
@@ -44,7 +47,7 @@
     color: purple;
   }
   .longdescription .content {
-    color: #ff00ee;
+    color: #a02197;
     background: transparent;
     box-shadow: none;
   }
